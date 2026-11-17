@@ -40,13 +40,13 @@ OUR APPROACH
 EduScholar creates a digital coordination layer between:
 
 Students
-↕  
+↓
 Student Academic & Financial Profiles
-↕  
+↓  
 Scholarship Database
-↕  
+↓  
 Eligibility Verification & Matching Engine
-↕  
+↓ 
 Relevant Scholarship Opportunities
 
 The objective is to simplify scholarship discovery by matching students with opportunities that align with their personal, academic, and financial information.
@@ -203,9 +203,7 @@ Application Tracking
 +
 Verified Scholarship Information
 +
-Personalized Recommendations
+Personalized Recommendations into a single digital scholarship discovery and matching ecosystem.
 
-into a single digital scholarship discovery and matching ecosystem.
-
-Our Vision
+Our Vision is
 To make scholarship opportunities easier to discover and more accessible to every deserving student by using technology, intelligent matching, and transparent information.
